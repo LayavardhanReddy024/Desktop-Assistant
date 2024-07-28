@@ -1,0 +1,13 @@
+speech_recognition
+
+pyttsx3
+
+webbrowser
+
+wikipediaapi
+
+pywhatkit 
+
+tkinter
+
+PILLOW
